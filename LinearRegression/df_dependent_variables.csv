@@ -1,0 +1,51 @@
+,Mean-LocalComponent,Mean-GlobalComponent
+Dolphins,0.597,0.386
+Reptiles,0.549,0.354
+E. coli Trans,0.3,0.441
+Human Protein,0.369,0.472
+Mouse Visual Cortex,0.151,0.493
+Yeast Protein,0.388,0.437
+AstroPh,0.59,0.52
+CS PhD,0.345,0.354
+GrQc,0.501,0.411
+NetSci,0.511,0.365
+Adolescent Health,0.528,0.366
+Jazz,0.644,0.445
+Zachary Karate Club,0.596,0.434
+Madrid Train Bombings,0.585,0.246
+EuroRoads,0.372,0.374
+US Airports,0.515,0.264
+US Power Grids,0.46,0.349
+US States,0.452,0.436
+Football,0.126,0.206
+Internet AS.,0.183,0.412
+Les Misérables,0.614,0.541
+Pol. Books,0.526,0.233
+Deezer EU,0.44,0.509
+Ego Facebook,0.53,0.253
+Caltech,0.643,0.59
+Facebook Pol. Pages,0.515,0.315
+Hamsterster,0.514,0.438
+PGP,0.477,0.389
+Princeton,0.552,0.608
+Retweets,0.402,0.473
+BlumenauDrug,0.53,0.52
+BudapestConnectome,0.649,0.331
+YeastCollins,0.536,0.33
+InteractomeVidal,0.405,0.498
+MalariaGenes,0.51,0.219
+KeggMetabolic,0.296,0.405
+NewZealand,0.24,0.569
+EUAirlines,0.731,0.367
+InternetTopCogentco,0.31,0.336
+LondonTransport,0.259,0.36
+911AllWords,0.492,0.348
+MovieGalaxies,0.458,0.527
+BibleNouns,0.448,0.542
+BoardDirectors,0.467,0.28
+DNCEmails,0.523,0.575
+GoT,0.571,0.515
+MarvelPartnerships,0.498,0.364
+FacebookFriends,0.567,0.224
+FacebookOrganizations,0.415,0.427
+DBLPCite,0.511,0.581
