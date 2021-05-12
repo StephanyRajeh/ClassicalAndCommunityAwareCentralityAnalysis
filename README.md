@@ -1,6 +1,6 @@
 # ClassicalAndCommunityAwareCentralityAnalysis
 
-This repository contains the codes of the simulation for the article: Rajeh, S., Savonnet, M., Leclercq, E. and Cherifi, H. _Characterizing the Interactions Between Classical and Community-aware Centrality Measures in Complex Networks_
+This repository contains the codes of the simulation for the article: Rajeh, S., Savonnet, M., Leclercq, E. et al. _Characterizing the interactions between classical and community-aware centrality measures in complex networks._ Sci Rep 11, 10088 (2021). https://doi.org/10.1038/s41598-021-89549-x
 
 Comments and questions are welcome, contact: `stephany.rajeh(at)u-bourgogne.fr`
 
